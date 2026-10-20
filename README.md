@@ -1,4 +1,4 @@
-![JIN GYU CHOI | Historic Urban Landscapes](./banner.png)
+![JIN GYU CHOI | Historic Urban Landscapes](./banner-suseon-jeondo.png)
 
 ## About
 
