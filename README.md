@@ -1,4 +1,4 @@
-![JIN GYU CHOI | Architecture and Urban Studies](./banner.png)
+![JIN GYU CHOI | Historic Urban Landscapes](./banner.png)
 
 ## About
 
@@ -14,4 +14,4 @@
 | **필지의 변화** | Plot Transformation |
 | **가로의 변화과정** | Street Network Evolution |
 
-<!-- The banner linework is an original abstract cadastral and street motif, not a geographic map. -->
+<!-- The decorative banner is an original generated antique cadastral-map motif, not a reproduction of a real historical map or research evidence. -->
