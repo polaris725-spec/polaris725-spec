@@ -1,16 +1,14 @@
-## Hi there 👋
+# JIN GYU CHOI
 
-<!--
-**polaris725-spec/polaris725-spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**서울대학교 건축학과 석사과정**  
+Master’s Student in Architecture · Seoul National University
 
-Here are some ideas to get you started:
+역사도심경관계획을 중심으로, 필지와 가로의 변화과정에 관심을 두고 있습니다.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Research Interests
+
+- **역사도심경관계획** · Historic Urban Landscape Planning
+- **필지의 변화** · Plot Transformation
+- **가로의 변화과정** · Street Network Evolution
