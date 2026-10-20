@@ -14,4 +14,13 @@
 | **필지의 변화** | Plot Transformation |
 | **가로의 변화과정** | Street Network Evolution |
 
-<!-- The decorative banner is an original generated antique cadastral-map motif, not a reproduction of a real historical map or research evidence. -->
+## Map source
+
+배너 배경은 조선 후기 서울 지도 **수선전도(首善全圖)**의 일부입니다.
+
+- 출처: [수선전도 - 한국민족문화대백과사전, 한국학중앙연구원](https://encykorea.aks.ac.kr/Article/E0031458)
+- 이용 조건: **공공누리 제1유형(출처 표시)**
+- 편집: 지도 비율을 유지하여 일부 발췌·크기 조정, 소개문 병치
+- [제공 이미지 원본 보기](./suseon-jeondo-original.png) · [출처 및 편집 내역](./SOURCE.md)
+
+※ 수선전도는 서울의 도성도이며, 필지별 지적도가 아닙니다.
