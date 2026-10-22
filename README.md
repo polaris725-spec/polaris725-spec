@@ -1,4 +1,4 @@
-![JIN GYU CHOI | Historic Urban Landscapes](./banner-suseon-jeondo.png)
+![JIN GYU CHOI | Historic Urban Landscapes](./banner-suseon-overlay.png)
 
 ## About
 
@@ -20,7 +20,7 @@
 
 - 출처: [수선전도 - 한국민족문화대백과사전, 한국학중앙연구원](https://encykorea.aks.ac.kr/Article/E0031458)
 - 이용 조건: **공공누리 제1유형(출처 표시)**
-- 편집: 지도 비율을 유지하여 일부 발췌·크기 조정, 소개문 병치
+- 편집: 지도 비율을 유지하여 일부 발췌·크기 조정, 명도 조정 후 글자 중첩
 - [제공 이미지 원본 보기](./suseon-jeondo-original.png) · [출처 및 편집 내역](./SOURCE.md)
 
 ※ 수선전도는 서울의 도성도이며, 필지별 지적도가 아닙니다.
